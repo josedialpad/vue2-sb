@@ -1,5 +1,9 @@
 # vue2-sb
 
+## Storybook project
+
+https://josedialpad.github.io/vue2-sb/storybook-static/
+
 ## Project setup
 ```
 npm install
